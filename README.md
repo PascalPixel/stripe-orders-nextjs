@@ -23,7 +23,9 @@ npm run dev
 
 4. Go to [http://localhost:3000](http://localhost:3000)
 
-5. Run tests on the dev server
+## Testing
+
+Shut down any active servers, then run:
 
 ```
 npm run test
